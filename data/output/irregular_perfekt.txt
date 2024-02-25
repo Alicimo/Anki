@@ -1,0 +1,78 @@
+anfangen;angefangen<br><br><i>Der Kurs hat um 11 Uhr angefangen.</i>
+anrufen;angerufen<br><br><i>Wer hat dich angerufen?</i>
+aufstehen;aufgestanden<br><br><i>Wir sind heute schon um 6 Uhr aufgestanden.</i>
+aufwachsen;aufgewachsen<br><br><i>Er ist in Italien aufgewachsen.</i>
+ausgehen;ausgegangen<br><br><i>Er ist am Samstag mit seinen Freunden ausgegangen.</i>
+backen;gebacken<br><br><i>Sie haben einen Geburtstagskuchen gebacken.</i>
+beginnen;begonnen<br><br><i>Der Kurs hat um 11 Uhr begonnen.</i>
+bekommen;bekommen<br><br><i>Sie hat ein Geschenk gekommen.</i>
+beschreiben;beschrieben<br><br><i>Wir haben das Bild beschrieben.</i>
+bestehen;bestanden<br><br><i>Er ist glücklich, weil er die Prüfung bestanden hat.</i>
+bitten;gebeten<br><br><i>Er hat mich um Hilfe gebeten.</i>
+bleiben;geblieben<br><br><i>Wir sind in den Ferien in Wien geblieben.</i>
+denken;gedacht<br><br><i>Sie hat an ihre Familie gedacht.</i>
+einfallen;eingefallen<br><br><i>Die richtige Antwort ist mir nicht eingefallen.</i>
+einladen;eingeladen<br><br><i>Wir haben unsere Freunde zu einer Party eingeladen.</i>
+einnehmen;eingenommen<br><br><i>Er hat die Tabletten eingenommen.</i>
+einschlafen;eingeschlafen<br><br><i>Das Kind ist gerade eingeschlafen.</i>
+einsteigen;eingestiegen<br><br><i>Ihr seid in die falsche U-Bahn eingestiegen!</i>
+empfehlen;empfohlen<br><br><i>Die Kellnerin hat mir das Wiener Schnitzel empfohlen.</i>
+entscheiden;entschieden<br><br><i>Ich habe mich für das Gulasch entschieden.</i>
+erfinden;erfunden<br><br><i>Wer hat den Computer erfunden?</i>
+essen;gegessen<br><br><i>Wir haben gestern Kartoffelsalat gegessen.</i>
+fahren;gefahren<br><br><i>Sie ist mit dem Zug nach Salzburg gefahren.</i>
+fallen;gefallen<br><br><i>Der Stift ist auf den Boden gefallen.</i>
+fernsehen;ferngesehen<br><br><i>Er hat viel zu lang ferngesehen.</i>
+finden;gefunden<br><br><i>Sie hat ihre Schlüssel nicht gefunden.</i>
+fliegen;geflogen<br><br><i>Sie ist nach New York geflogen.</i>
+fressen;gefressen<br><br><i>Der Hund hat die Wurst gefressen.</i>
+geben;gegeben<br><br><i>Er hat mir den Brief gegeben.</i>
+gefallen;gefallen<br><br><i>Das T-Shirt hat mir sehr gut gefallen.</i>
+gehen;gegangen<br><br><i>Sie ist Jetzte Woche nicht ins Kino gegangen.</i>
+gewinnen;gewonnen<br><br><i>Sie hat alle Strategiespiele gewonnen.</i>
+halten;gehalten<br><br><i>Er hat ihre Hand gehalten.</i>
+hängen;gehangen<br><br><i>Das Poster hat/ist an der Wand gehangen. (Wo?)</i>
+hängen;gehängt<br><br><i>Er hat das Poster an die Wand gehängt. (Wohin?)</i>
+heißen;geheißen<br><br><i>Wie hat das Medikament gegen Husten geheißen?</i>
+helfen;geholfen<br><br><i>Er hat ihm bei der Hausaufgabe geholfen.</i>
+herunterladen;heruntergeladen<br><br><i>Er hat das Programm heruntergeladen.</i>
+kennen;gekannt<br><br><i>Er hat die Geschichte schon gekannt.</i>
+klingen;geklungen<br><br><i>Die Musik hat wunderbar geklungen.</i>
+kommen;gekommen<br><br><i>Er ist vor einem Monat nach Wien gekommen.</i>
+lassen;gelassen/lassen<br><br><i>Er hat ihn allein gelassen. Er hat sich nicht helfen lassen.</i>
+laufen;gelaufen<br><br><i>Sie ist zwei Kilometer gelaufen.</i>
+lesen;gelesen<br><br><i>Sie hat ein spannendes Buch gelesen.</i>
+liegen;gelegen<br><br><i>Sie hat/ist zu lange in der Sonne gelegen.</i>
+mitbringen;mitgebracht<br><br><i>Er hat die Nachspeise mitgebracht.</i>
+mögen;gemocht<br><br><i>Er hat ihn noch nie gemocht.</i>
+nehmen;genommen<br><br><i>Sie hat ihre Tabletten nicht genommen.</i>
+nennen;genannt<br><br><i>Sie hat ihren Namen genannt.</i>
+riechen;gerochen<br><br><i>Das Parfum hat sehr gut gerochen.</i>
+rufen;gerufen<br><br><i>Warum hat er mich gerufen?</i>
+scheinen;geschienen<br><br><i>Die Sonne hat gestern nicht geschienen.</i>
+schlafen;geschlafen<br><br><i>Er hat sehr gut geschlafen.</i>
+schlieBen;geschlossen<br><br><i>Er hat die Tiir geschlossen.</i>
+schneiden;geschnitten<br><br><i>Sie hat das Gemiise geschnitten.</i>
+schreiben;geschrieben<br><br><i>Sie hat einen sehr interessanten Roman geschrieben.</i>
+schwimmen;geschwommen<br><br><i>Er ist gestern zwei Kilometer geschwommen,</i>
+sehen;gesehen<br><br><i>Er hat letzte Woche seine Familie gesehen.</i>
+singen;gesungen<br><br><i>Sie hat ein schönes Lied gesungen.</i>
+sitzen;gesessen<br><br><i>Er hat/ist gestern im Park gesessen.</i>
+sprechen;gesprochen<br><br><i>Er hat gestern mit seiner Mutter gesprochen.</i>
+springen;gesprungen<br><br><i>Er ist noch nie Fallschirm gesprungen.</i>
+stehen;gestanden<br><br><i>Sie hat/ist an der Bar gestanden.</i>
+stehlen;gestohlen<br><br><i>Der Vogel hat mein Mittagessen gestohlen.</i>
+sterben;gestorben<br><br><i>Der Mann ist bei dem Unfall nicht gestorben.</i>
+streiten;gestritten<br><br><i>Er hat mit seinem besten Freund gestritten.</i>
+tragen;getragen<br><br><i>Er hat den Koffer allein getragen.</i>
+treffen;getroffen<br><br><i>Sie hat gestern ihre beste Freundin getroffen.</i>
+trinken;getrunken<br><br><i>Sie hat einen schwarzen Kaffee getrunken.</i>
+tun;getan<br><br><i>Das Tier hat mir nichts getan.</i>
+umziehen;umgezogen<br><br><i>Sie ist am 1.März umgezogen.</i>
+unterstreichen;unterstrichen<br><br><i>Er hat die neuen Wörter unterstrichen.</i>
+vergessen;vergessen<br><br><i>Er hat die Hausaufgabe nicht vergessen.</i>
+vorschlagen;vorgeschlagen<br><br><i>Sie hat das Konzert vorgeschlagen.</i>
+wachsen;gewachsen<br><br><i>Das Kind ist fünf Zentimeter gewachsen.</i>
+waschen;gewaschen<br><br><i>Er hat die Wäsche gewaschen.</i>
+werden;geworden<br><br><i>Er ist gestern 20 Jahre alt geworden.</i>
+wissen;gewusst<br><br><i>Sie hat alle Antworten gewusst.</i>
